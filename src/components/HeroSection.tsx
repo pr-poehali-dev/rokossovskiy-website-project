@@ -36,7 +36,7 @@ const HeroSection = () => {
           <div className="relative">
             <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=600&h=800&fit=crop&crop=faces"
+                src="https://images.unsplash.com/photo-1566753323558-f4e0952af115?w=600&h=800&fit=crop&crop=faces"
                 alt="Портрет маршала Рокоссовского"
                 className="w-full h-[600px] object-cover"
               />
